@@ -1,0 +1,22 @@
+video::-webkit-media-controls-play-button{
+    background-color: #fcafaf;
+    border-radius: 50%;
+}
+video::-webkit-media-controls-mute-button{
+    background-color: #fcafaf;
+    border-radius: 50%;
+}
+video::-webkit-media-controls-timeline{
+    background-color: #f12525;
+    padding: 5px;
+}
+video::-webkit-media-controls-current-time-display{
+    color: blue;
+}
+video::-webkit-media-controls-time-remaining-display{
+    color: blue;
+}
+video::-webkit-media-controls-fullscreen-button{
+    background-color: #fcafaf;
+    border-radius: 50%;
+}
